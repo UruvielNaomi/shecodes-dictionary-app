@@ -1,0 +1,13 @@
+.definition {
+    font-size: 15px;
+}
+
+.example {
+    font-size: 14px;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.Meaning {
+    margin: 30px 0px;
+}
