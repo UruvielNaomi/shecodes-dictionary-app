@@ -15,7 +15,7 @@ function App() {
         </main>
 
         <footer>
-          Coded by Naomi Stacia
+          <a href='https://github.com/UruvielNaomi' target='blank'>Coded by Naomi Stacia</a>
         </footer>
 
     </div>

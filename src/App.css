@@ -1,3 +1,9 @@
+a {
+  text-decoration: none!important;
+  color: #212121;
+  cursor:pointer;
+}
+
 footer {
   margin: 30px 0px;
   font-size: 10px;
