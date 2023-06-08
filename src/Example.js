@@ -4,9 +4,9 @@ import "./Example.css";
 export default function Example(props){
     if (props.example) {
         return(
-            <span className="Example">
+            <div className="Example">
                 <span className="example">Example: </span> {props.example}
-            </span>
+            </div>
         );
     } else {
         return (null);
