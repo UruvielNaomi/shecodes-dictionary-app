@@ -1,5 +1,5 @@
 .example {
     font-size: 15px;
-    font-style: italic;
     text-transform: capitalize;
+    font-weight: bold;
 }
