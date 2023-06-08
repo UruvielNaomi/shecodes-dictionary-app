@@ -7,9 +7,12 @@ footer {
 .App-header {
  margin: 30px 0px;
  display: block;
- text-align: center;
+ text-align: left;
+ font-family: 'Neucha', cursive;
+ font-size: 40px;
 }
 
 .container {
-  max-width: 800px;
+  max-width: 600px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
 }

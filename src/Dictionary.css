@@ -1,0 +1,18 @@
+form {
+    margin-bottom: 20px;
+}
+
+.searchbar {
+    width: 75%;
+    height: 40px;
+    margin-right: 10px;
+    box-shadow: 3px 3px 3px #c0c0c0;
+}
+
+.submit {
+    width: 23%;
+    height: 40px;
+    font-weight: bold;
+    border: 2px solid #212121;
+    box-shadow: 3px 3px 3px #c0c0c0;
+}
